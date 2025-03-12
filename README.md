@@ -77,13 +77,3 @@ streamlit run app.py
 - [MistralAI](https://mistral.ai) for their powerful OCR API.
 - [Streamlit](https://streamlit.io) for providing an easy-to-use UI framework.
 
----
-
-## 👤 Author
-[Aditya Deshpande](https://github.com/adityadeshpande03)
-
----
-
-## 📞 Contact
-For any issues or feature requests, please open an issue on GitHub or contact me via [email](mailto:deshpande.aditya2003@gmail.com).
-
