@@ -2,6 +2,8 @@
 
 DeepOCR is a powerful OCR (Optical Character Recognition) application built with Streamlit and powered by MistralAI. This application allows users to extract text from various document formats, including PDFs and images, or directly from URLs. The extracted text can be viewed and downloaded in multiple formats.
 
+<img width="960" alt="Screenshot 2025-03-12 115849" src="https://github.com/user-attachments/assets/ef2bef64-4e81-44f2-a0aa-0496cc547286" />
+
 ---
 
 ## 📌 Features
