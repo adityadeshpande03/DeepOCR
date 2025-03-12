@@ -19,7 +19,7 @@ DeepOCR is a powerful OCR (Optical Character Recognition) application built with
 
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.8+
+- Python 3.11
 - `pip` package manager
 - MistralAI API Key
 
